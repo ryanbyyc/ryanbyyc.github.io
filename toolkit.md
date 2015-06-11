@@ -67,6 +67,7 @@ _Or would like to work with._
 * [Vagrant](https://www.vagrantup.com/)
 * [Asterisk](http://www.asterisk.org/)
 * [Droplr](http://droplr.com/)
+* [Livefyre](http://web.livefyre.com/)
 
 ### Interesting Technologies
 * http://estimote.com/ _Or any beacon tech, really_
