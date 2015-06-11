@@ -67,8 +67,3 @@ _Or would like to work with._
 ### Interesting Technologies
 * http://estimote.com/ _Or any beacon tech, really_
 * Voxels
-
-
-
-
-
