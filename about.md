@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Howdy, I'm Ryan from Calgary AB Canada (#YYC).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I really loathe writing about myself so here's my [email](mailto:ryan.recharge@gmail.com) instead. 
