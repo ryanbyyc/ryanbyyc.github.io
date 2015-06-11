@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Toolkit
+permalink: /toolkit/
+---
 ### Daily Reading
 
 * [Hacker News](https://news.ycombinator.com/)
