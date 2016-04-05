@@ -55,6 +55,7 @@ _Or would like to work with._
 
 * [Mailhog](https://github.com/mailhog/MailHog)
 * [Boom](https://github.com/rakyll/boom)
+* [Vegeta](https://github.com/tsenart/vegeta)
 * [Flarum](https://github.com/flarum/flarum) _Just watching_
 * [Faker.js](https://github.com/Marak/faker.js)
 * [Centrifugo](https://github.com/centrifugal/centrifugo)
