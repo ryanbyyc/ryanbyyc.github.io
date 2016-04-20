@@ -13,6 +13,7 @@ permalink: /toolkit/
 ### Site Tools & APIs
 
 * [Tech Stacks](http://techstacks.io/)
+* [StackShare](http://stackshare.io/)
 * [Built With](http://builtwith.com/)
 * [TechEmpower Benchmarks](https://www.techempower.com/benchmarks/)
 * [Plivo](https://www.plivo.com/)
